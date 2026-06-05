@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/IppiliSahasra08/IppiliSahasra08/main/banner.png" alt="Sahasra banner" width="100%" />
+<img src="https://raw.githubusercontent.com/IppiliSahasra08/IppiliSahasra08/main/github-banner.png" alt="Sahasra banner" width="100%" />
 </div>
 ---
  
