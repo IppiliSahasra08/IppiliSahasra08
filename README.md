@@ -5,8 +5,7 @@
  
 <div align="center">
 
-```
- 
+
 # Hi, I'm Sahasra 💜
  
 ### CS Engineering Student · ML & Design Enthusiast 
