@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats
 <div align="center">
  
-![Sahasra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IppiliSahasra08&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cc2b7a&icon_color=cc2b7a&text_color=444&include_all_commits=true&count_private=true)
+![Sahasra's GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=IppiliSahasra08&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=cc2b7a&icon_color=cc2b7a&text_color=444&include_all_commits=true&count_private=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IppiliSahasra08&layout=compact&langs_count=6&hide_border=true&bg_color=fff0f5&title_color=cc2b7a&text_color=444)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=IppiliSahasra08&layout=compact&langs_count=6&hide_border=true&bg_color=fff0f5&title_color=cc2b7a&text_color=444)
 
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=IppiliSahasra08&hide_border=true&background=fff0f5&ring=cc2b7a&fire=ff6b9d&currStreakLabel=cc2b7a&sideLabels=cc2b7a)
