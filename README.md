@@ -4,8 +4,7 @@
 ---
  
 <div align="center">
-```
-sahasra@github:~$ whoami
+
 ```
  
 # Hi, I'm Sahasra 💜
