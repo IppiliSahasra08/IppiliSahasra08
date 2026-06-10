@@ -22,7 +22,6 @@
  
 | | |
 |---|---|
-| 🛸 | Building **Drav** — AI powered assistant to simplify complex data interactions |
 | 🌱 | Learning **Machine Learning, RAG & Data Science** |
 | 🖥️ | Exploring **System Design & DSA** |
 | 🎯 | Open to **AI/ML Internships** |
