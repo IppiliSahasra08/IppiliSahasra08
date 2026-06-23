@@ -98,8 +98,7 @@
 ---
  
 ## 📈 Contribution Graph
- 
-![Sahasra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ippilisahasra08&bg_color=fff0f5&color=cc2b7a&line=ff6b9d&point=cc2b7a&area=true&hide_border=true)
+![Sahasra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ippilisahasra08&bg_color=fff0f5&color=cc2b7a&line=ff6b9d&point=cc2b7a&area=true&hide_border=true&days=40)
  
 ---
  
